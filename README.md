@@ -1,7 +1,5 @@
-<p align="center"><img src="http://i.imgur.com/vJshMwW.png" /></p>
-<p align="center"><img src="https://travis-ci.com/stevenleeg/geemusic.svg?branch=master" /></p>
 
-GeeMusic is an Alexa skill which bridges Google Music and Amazon's Alexa. It hopes to rescue all of those who want an Echo/Dot but don't want to switch off of Google Music or pay extra for an Amazon Music Unlimited subscription.
+GoMusic is an Alexa skill which bridges Google Music and Amazon's Alexa. It hopes to rescue all of those who want an Echo/Dot but don't want to switch off of Google Music or pay extra for an Amazon Music Unlimited subscription.
 
 This project is still in its early phases and subject to a bit of change, however it is functional and ready for use! The only catch is that you'll need to run it on your own server for the time being (ideally I'll eventually release this on the Alexa Skills marketplace, but there's a lot of work to do before then). This means that you should be familiar with how to set up your own HTTPS web server for now.
 
